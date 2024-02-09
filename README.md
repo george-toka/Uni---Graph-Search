@@ -5,3 +5,6 @@ the following elements:<br>
 * Number Of Edges 
 * Find if the graph is bipartite or not
 * Return an edge that resides in a cyclic part of odd length
+<br>
+Unfortunately visual results are not provided as this code was connected to the <br>
+class server which class is from an older semester.
